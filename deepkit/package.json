@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@deepkit/app": "^1.0.1-alpha.71",
+    "@deepkit/broker": "^1.0.1-alpha.71",
+    "@deepkit/bson": "^1.0.1-alpha.71",
+    "@deepkit/core": "^1.0.1-alpha.65",
+    "@deepkit/core-rxjs": "^1.0.1-alpha.65",
+    "@deepkit/event": "^1.0.1-alpha.71",
+    "@deepkit/framework": "^1.0.1-alpha.71",
+    "@deepkit/http": "^1.0.1-alpha.71",
+    "@deepkit/injector": "^1.0.1-alpha.71",
+    "@deepkit/logger": "^1.0.1-alpha.65",
+    "@deepkit/orm": "^1.0.1-alpha.71",
+    "@deepkit/rpc": "^1.0.1-alpha.71",
+    "@deepkit/rpc-tcp": "^1.0.1-alpha.71",
+    "@deepkit/stopwatch": "^1.0.1-alpha.71",
+    "@deepkit/template": "^1.0.1-alpha.71",
+    "@deepkit/type": "^1.0.1-alpha.71",
+    "@deepkit/type-compiler": "^1.0.1-alpha.71",
+    "@deepkit/workflow": "^1.0.1-alpha.71",
+    "rxjs": "^7.5.5",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
